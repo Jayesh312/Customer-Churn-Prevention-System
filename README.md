@@ -56,10 +56,3 @@ Because customer churn datasets exhibit class imbalance, standard accuracy is an
 * **PR-AUC (Precision-Recall Area Under Curve):** Measures trade-off across all probability thresholds, ensuring high recall on churners while minimizing false alarms.
 
 ---
-
-## Local Installation and Execution
-
-1. **Clone Repository:**
-   ```bash
-   git clone [https://github.com/Jayesh312/Customer-Churn-Prevention-System.git](https://github.com/Jayesh312/Customer-Churn-Prevention-System.git)
-   cd Customer-Churn-Prevention-System
